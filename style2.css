@@ -1,0 +1,27 @@
+.back
+{
+	width: 1500px;
+	height: 1000px;
+	background-color: #387c6e;
+	padding-left: 150px;
+	margin-top: -30px;
+	padding-top: 30px;
+
+}
+.df{
+	display: flex;
+}
+.in{
+	background-color: white;
+	width: 600px;
+}
+.text{
+	margin-left: 20px;
+}
+.h1{
+	color: white;
+	font-size: 40px;
+}
+body{
+	font-family: arial
+}
